@@ -19,6 +19,9 @@ public class DataTypes {
         myBoolean = false;
         System.out.println(myBoolean);
 
+        String myString = "hola";
+        System.out.println(myString.getClass().getSimpleName());
+
         //float, long, byte
 
     }
