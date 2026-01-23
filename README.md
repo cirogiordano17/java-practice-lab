@@ -1,24 +1,16 @@
 📆 Organización por Weeks
+
 Week 01 – Java Basics
-
 Fundamentos del lenguaje y control de flujo.
-
 Contenidos:
 
 Variables y tipos de datos
-
 Operadores matemáticos y lógicos
-
 if / else
-
 switch
-
 Bucles (for, while, do-while)
-
 Entrada por teclado (Scanner)
-
 Validaciones básicas
-
 main y estructura de un programa Java
 
 📁 Carpeta: week-01-basics
@@ -30,19 +22,12 @@ Introducción formal a objetos y clases.
 Contenidos:
 
 Clases y objetos
-
 Atributos y métodos
-
 Constructores
-
 Encapsulamiento
-
 this
-
 toString
-
 Modificadores de acceso
-
 Paquetes
 
 📁 Carpeta: week-02-oop
@@ -54,15 +39,10 @@ Estructuras de datos y manejo de errores.
 Contenidos:
 
 List, Set, Map
-
 ArrayList, HashSet, HashMap
-
 Iteración
-
 Excepciones
-
 try / catch / finally
-
 Excepciones personalizadas
 
 📁 Carpeta: week-03-collections-exceptions
@@ -74,11 +54,8 @@ Java moderno y manejo de datos.
 Contenidos:
 
 Lectura y escritura de archivos
-
 Streams API
-
 Expresiones lambda
-
 Optional
 
 Métodos funcionales (map, filter, forEach)
@@ -92,15 +69,10 @@ Persistencia con bases de datos relacionales.
 Contenidos:
 
 JDBC
-
 PostgreSQL
-
 CRUD
-
 DAO pattern
-
 Manejo de conexiones
-
 SQL básico
 
 📁 Carpeta: week-05-jdbc
@@ -112,15 +84,10 @@ Temas clave de Java “serio”.
 Contenidos:
 
 Threads
-
 Runnable
-
 synchronized
-
 Java Memory Model (introducción)
-
 volatile
-
 Concurrencia básica
 
 📁 Carpeta: week-06-concurrency
@@ -136,15 +103,10 @@ Week 07 – Spring Boot Fundamentals
 Contenidos:
 
 Spring Boot
-
 Controllers REST
-
 JSON
-
 DTOs
-
 Inyección de dependencias
-
 Maven en proyectos reales
 
 📁 Repo: springboot-rest-api
@@ -156,19 +118,12 @@ Week 08 – Spring Boot + JPA (Proyecto Final)
 Contenidos:
 
 Spring Data JPA
-
 Hibernate
-
 Entities
-
 Repositories
-
 Services
-
 Validaciones
-
 Logging
-
 Configuración
 
 API REST completa
