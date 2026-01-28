@@ -21,5 +21,35 @@ public class Mapas {
 
         // Mostrar
         System.out.println(names);
+
+        // Acceder
+        System.out.println(names.get("Juan"));
+
+        // Verificar elementos
+        System.out.println(names.containsKey("Hector"));
+
+        // Eliminar elementos
+        System.out.println(names.remove("Maria"));
+        System.out.println(names);
+
+        // limpiar hashMap
+        names.clear();
+        System.out.println(names);
+
+        // modificar elementos
+        names.put("Juan", "Juan@Gmail.com");
+
+        // Actualizar
+        System.out.println(names.replace("A", "a")); // Reemplaza el valor si existe
+
+
+        // Insertalo solo si no existe
+        names.putIfAbsent("A", "aaa");
+        System.out.println(names);
+
+        System.out.println(names.values());
+
+        var values = names.values();
+        System.out.println(values);
     }
 }
